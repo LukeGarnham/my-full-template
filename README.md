@@ -1,8 +1,8 @@
-#My very first web page
+# My very first web page
 
-Welcome!
+Welcome
 
-##Module Learnings
+## Module Learnings
 
 This webpage doesn't serve any function other than it 
 was created in a module of my [Code Institute](https://codeinstitute.net)
@@ -19,12 +19,12 @@ The final part of the module introduced README.md files and
 HTML markdown language.  README.md files are important for 
 informing others about the project, 
 
-##Technologies
+## Technologies
 
 I used HTML, CCS, GitHub and GitPod to create this project.  GitPod
 was also the first time I got to use command line coding.
 
-##Course Update 27/06/2020
+## Course Update 27/06/2020
 
 I have been on the course for about a month so far and I am really 
 enjoying it.  I feel I have learnt a lot of the building blocks 
