@@ -2,6 +2,3 @@
 
 Welcome! [Code Institure](https://codeinstitute.net)
 
-## h2
-
-### h3
